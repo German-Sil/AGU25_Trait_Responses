@@ -1,4 +1,4 @@
-# AGU25_Thursday_Poster
+# AGU25_Trait_Responses_Poster
 
 Supplementary materials and digital copy of my 2025 AGU Poster "Salinity stress responses in Salicornia pacifica depend on duration and intensity of exposure"
 
@@ -44,9 +44,9 @@ Figure S2: Biplots for the combinations of the first three principal components 
 <br>
 
 
-# Copy of Poster
-<br>
-[AGU_2025_Trait_Responses.pdf](https://github.com/user-attachments/files/24133378/AGU_2025_Trait_Responses.pdf)
+# Copy of Poster <br>
+[AGU_2025_Trait_Responses.pdf](https://github.com/user-attachments/files/24133512/AGU_2025_Trait_Responses.pdf)
+
 
 
 
