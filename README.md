@@ -46,7 +46,8 @@ Figure S2: Biplots for the combinations of the first three principal components 
 
 # Copy of Poster
 <br>
-[AGU_2025_Trait_Responses.pdf](https://github.com/user-attachments/files/24133371/AGU_2025_Trait_Responses.pdf)
+[AGU_2025_Trait_Responses.pdf](https://github.com/user-attachments/files/24133378/AGU_2025_Trait_Responses.pdf)
+
 
 
 
